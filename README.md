@@ -1,14 +1,14 @@
 # Zarathustra
 
 ![Ghost version](https://img.shields.io/badge/Ghost-0.7.x-brightgreen.svg?style=flat-square)
-[![Donate](https://img.shields.io/badge/donate-paypal-003087.svg?style=flat-square)](https://www.paypal.me/andreatarquini/5)
+[![Donate](https://img.shields.io/badge/donate-paypal-003087.svg?style=flat-square)](https://www.paypal.me/prestonbernstein/5)
 
 > A simple theme for Ghost made for geeks, hackers and developers (forked from Casper).
 
-[<img src="http://i.imgur.com/SjCzgwp.jpg">](https://blog.prestonbernstein.com)
+[<img src="http://i.imgur.com/975zi6F.jpg">](https://blog.prestonbernstein.com)
 
 ***Do you like my theme? Do you want new features?***  
-Great, we can discuss. Open an issue. Some :coffee::coffee::coffee::coffee: offered with [Paypal](https://www.paypal.me/andreatarquini/5) are appreciated.
+Great, we can discuss. Open an issue. Some :coffee::coffee::coffee::coffee: offered with [Paypal](https://www.paypal.me/prestonbernstein/5) are appreciated.
 
 ## Intro
 **Zarathustra** is a very simple fork of the Ghost theme [Odin](https://github.com/ferdythebull/odin).
